@@ -1,0 +1,3 @@
+[submodule "refs/uol-robotino-ros-indigo"]
+	path = refs/uol-robotino-ros-indigo
+	url = git@github.com:UniOL-AMT/uol-robotino-ros-indigo.git
